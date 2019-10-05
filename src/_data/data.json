@@ -1,0 +1,26 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "hello@websitemarket.ro",
+    "phone"          : "0766612322",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Site Servicii Curatenie",
+
+    "seo_title"      : "Site Servicii Curatenie - Design Paradigm | WebsiteMarket",
+    "seo_desc"       : "Site servicii curatenie - site prezentare, un produs open-source WebsiteMarket.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/site-prezentare/servicii-curatenie-paradigm", 
+    "github"         : "https://github.com/creare-site/servicii-curatenie-paradigm",
+    "github_group"   : "https://github.com/creare-site/site-prezentare/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
